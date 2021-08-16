@@ -4520,7 +4520,7 @@ input, select, textarea {
 		}
 
 		#navPanelToggle:before {
-			content: '\f0c9';
+			content: '';
 			margin-right: 0.5rem;
 		}
 
